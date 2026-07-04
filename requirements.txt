@@ -1,5 +1,0 @@
-streamlit
-csv
-io
-operator
-matplotlib.pyplot
